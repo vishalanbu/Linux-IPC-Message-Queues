@@ -94,7 +94,7 @@ int main(int argc, char *argv[]) {
 ```
 ## OUTPUT
 
-![Alt text](img/1.png)
+<img width="1566" height="1005" alt="image" src="https://github.com/user-attachments/assets/8f1bbd6f-0e81-4f30-82dc-adffc3be7f86" />
 
 
 # RESULT:
